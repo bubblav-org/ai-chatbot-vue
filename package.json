@@ -1,6 +1,6 @@
 {
   "name": "@bubblav/ai-chatbot-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue component for embedding the BubblaV AI chatbot widget",
   "type": "module",
   "main": "./dist/index.js",
